@@ -99,7 +99,7 @@ src/
 Clone the repository
 
 ```
-git clone <your-repository-url>
+git clone https://github.com/Sora1919/github_user_search.git
 ```
 
 Navigate into the project:
