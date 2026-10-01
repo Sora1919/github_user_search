@@ -104,7 +104,7 @@ git clone https://github.com/Sora1919/github_user_search.git
 
 Navigate into the project:
 ```
-cd github-search-app
+cd github-user_search
 ```
 
 Install dependencies:
